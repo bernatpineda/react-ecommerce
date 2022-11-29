@@ -1,0 +1,22 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "name": "clocks",
+            "img": "https://res.cloudinary.com/dcfivdjx9/image/upload/v1668438555/menu-1_vurygs.jpg",
+            "price": 20
+        },
+        {
+            "id": 2,
+            "name": "plants",
+            "img": "https://res.cloudinary.com/dcfivdjx9/image/upload/v1668438648/menu-2_ydpnmj.jpg",
+            "price": 15
+        },
+        {
+            "id": 3,
+            "name": "morning",
+            "img": "https://res.cloudinary.com/dcfivdjx9/image/upload/v1668438693/menu-3_lhjrgi.jpg",
+            "price": 24
+        }
+    ]
+    }
